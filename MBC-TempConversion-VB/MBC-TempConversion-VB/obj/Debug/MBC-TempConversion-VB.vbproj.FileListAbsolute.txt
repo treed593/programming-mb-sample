@@ -1,0 +1,11 @@
+C:\Users\Trevor\ownCloud\Documents\ETP\Chapter\MBC\2016\MBC-TempConversion-VB\MBC-TempConversion-VB\bin\Debug\MBC-TempConversion-VB.exe.config
+C:\Users\Trevor\ownCloud\Documents\ETP\Chapter\MBC\2016\MBC-TempConversion-VB\MBC-TempConversion-VB\bin\Debug\MBC-TempConversion-VB.exe
+C:\Users\Trevor\ownCloud\Documents\ETP\Chapter\MBC\2016\MBC-TempConversion-VB\MBC-TempConversion-VB\bin\Debug\MBC-TempConversion-VB.pdb
+C:\Users\Trevor\ownCloud\Documents\ETP\Chapter\MBC\2016\MBC-TempConversion-VB\MBC-TempConversion-VB\bin\Debug\MBC-TempConversion-VB.xml
+C:\Users\Trevor\ownCloud\Documents\ETP\Chapter\MBC\2016\MBC-TempConversion-VB\MBC-TempConversion-VB\obj\Debug\MBC-TempConversion-VB.vbprojResolveAssemblyReference.cache
+C:\Users\Trevor\ownCloud\Documents\ETP\Chapter\MBC\2016\MBC-TempConversion-VB\MBC-TempConversion-VB\obj\Debug\MBC_TempConversion_VB.Form1.resources
+C:\Users\Trevor\ownCloud\Documents\ETP\Chapter\MBC\2016\MBC-TempConversion-VB\MBC-TempConversion-VB\obj\Debug\MBC_TempConversion_VB.Resources.resources
+C:\Users\Trevor\ownCloud\Documents\ETP\Chapter\MBC\2016\MBC-TempConversion-VB\MBC-TempConversion-VB\obj\Debug\MBC-TempConversion-VB.vbproj.GenerateResource.Cache
+C:\Users\Trevor\ownCloud\Documents\ETP\Chapter\MBC\2016\MBC-TempConversion-VB\MBC-TempConversion-VB\obj\Debug\MBC-TempConversion-VB.exe
+C:\Users\Trevor\ownCloud\Documents\ETP\Chapter\MBC\2016\MBC-TempConversion-VB\MBC-TempConversion-VB\obj\Debug\MBC-TempConversion-VB.xml
+C:\Users\Trevor\ownCloud\Documents\ETP\Chapter\MBC\2016\MBC-TempConversion-VB\MBC-TempConversion-VB\obj\Debug\MBC-TempConversion-VB.pdb
