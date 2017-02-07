@@ -1,0 +1,13 @@
+Your goal is to make the Temp conversion program convert Fahrenheit to Kelvin
+
+The formula is: ((Fahrenheit + 459.67) * (5 / 9))
+
+To use:
+
+Install VisualStudio 2015 Community (https://www.visualstudio.com/vs/community/)
+
+Download the code (https://github.com/treed593/rmuMBC-Program/archive/master.zip)
+
+Open the .zip file and drag the folder to your desktop
+
+Open the folder and double-click the 'MBC-TempConversion-VB.sln' file
