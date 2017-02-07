@@ -9,7 +9,6 @@
     Private Sub btnConvert_Click(sender As Object, e As EventArgs) Handles btnConvert.Click
         Dim tmpEntered, tmpCelcius As Double
         ' Create a variable as Double to store the kelvin temperature
-        Dim tmpKelvin As Double
 
         tmpEntered = Double.Parse(txtTemperature.Text)
         tmpCelcius = ((5 / 9) * (tmpEntered - 32))
@@ -17,10 +16,11 @@
         Me.lblCelcius.Left = Me.ClientSize.Width / 2 - Me.lblCelcius.Width / 2
 
         ' Calculate Kelvin Here
-        tmpKelvin = ((tmpEntered + 459.67) * (5 / 9))
+        
 
         ' Set lblKelvin to value of Kelvin variable
-        lblKelvin.Text = tmpKelvin.ToString + " degrees Kelvin"
+        
+        
         Me.lblKelvin.Left = Me.ClientSize.Width / 2 - Me.lblKelvin.Width / 2
 
         If tmpEntered > 100 Then
